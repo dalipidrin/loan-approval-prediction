@@ -1,4 +1,4 @@
-# 🤖🧠 Validata - Predicting Loan Approval Using KNN and Decision Trees
+# 🤖🧠 Predicting Loan Approval Using KNN and Decision Trees
 
 This project is a machine learning solution developed for a bank to predict whether a loan application should be approved or not based on 
 applicant data such as the applicant's income, credit score, loan amount, loan term, and employment status.
